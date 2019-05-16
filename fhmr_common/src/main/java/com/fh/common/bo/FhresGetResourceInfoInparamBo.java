@@ -15,7 +15,7 @@ public class FhresGetResourceInfoInparamBo {
     //错误信息
     protected  String errorMsg;
     //状态码
-    protected  String state;
+    protected  String state12;
 
     public Integer getResId() {
         return resId;
