@@ -10,7 +10,7 @@ public class RBookResBo extends RBookResDto{
     /**
      * 资源格式
      */
-    private String resFormat;
+    private String resFormat1;
     /**
      * 资源的业务类型 
      */
