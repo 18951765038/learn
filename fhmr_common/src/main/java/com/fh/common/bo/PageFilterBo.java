@@ -14,7 +14,7 @@ public class PageFilterBo {
 	/** 排序列 */
 	private String sort;
 	/** 排序方式 */
-	private String order;
+	private String order1;
 
 	public int getPage() {
 		return page;
